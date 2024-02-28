@@ -1,7 +1,7 @@
 import React from 'react';
 import Title from './Title';
-import Planets from '../data/planets';
 import PlanetCard from './PlanetCard';
+import Planets from '../data/planets';
 
 function SolarSystem() {
   return (

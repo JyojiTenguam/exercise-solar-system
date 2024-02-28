@@ -1,8 +1,8 @@
 import React from 'react';
 
-interface TitleProps {
+type TitleProps = {
   headline: string;
-}
+};
 
 function Title({ headline }: TitleProps) {
   return <h2>{headline}</h2>;

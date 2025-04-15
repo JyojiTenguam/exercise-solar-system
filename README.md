@@ -64,6 +64,7 @@ npm install
 ```bash
 npm start
 ```
+>A aplicação abrirá no navegador em http://localhost:3000
 
 ## 👤 Autor
 
